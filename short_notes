@@ -1,0 +1,8 @@
+Use appropriate naming.
+
+Global scope variables can be accessed by any function .
+
+Local scope variables can only be accessed by a specific function.
+
+To change global scope variable in the local scope variable, we used the :
+     global + function name
